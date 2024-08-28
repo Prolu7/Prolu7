@@ -3,7 +3,7 @@
 my real name is Jan and I have so many hobbies I have no clue how to manage the time for all.
 
 - 🐱‍💻 I'm an intermediate programmer in C#
-- 🌱 I'm currently learning C++
+- 🌱 I'm currently learning C++ and Arduino
 - ⚡ I do electronics stuff
 - 🦠 I like microcontrollers
 - 🎨 I like being creative
