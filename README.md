@@ -7,7 +7,7 @@ my real name is Jan and I have so many hobbies I have no clue how to manage the 
 - ⚡ I do electronics stuff
 - 🦠 I like microcontrollers
 - 🎨 I like being creative
-- 🎵 I make music
+- 🎵 I make [music](https://open.spotify.com/intl-de/artist/77hcbQZQkjbcFFeiBVDF8H?si=Y_58WccCQ12Z2d5Prf3VOA)
 - [🎲](https://docs.blender.org/manual/en/latest/_images/interface_window-system_introduction_default-startup.png) I 3D model stuff
 - 🎯 I make games (99% are in Unity)
 - 🚁 I fly drones
